@@ -32,7 +32,13 @@ Coming Soon...
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
+### 🤖 AI Tools
 
+- ChatGPT
+- Google Gemini
+- Lovable AI
+- Prompt Engineering
+- AI-Assisted Development
 ---
 
 ## 📊 GitHub Stats
