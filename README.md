@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Surya Perabathula
 
-<!--
-**SuryaAGS/SuryaAGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 AI Developer | Full-Stack Developer | Startup Builder</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building technology that solves real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year B.Tech Student
+- 🚀 Creator of VillageFinder
+- 🤖 Learning Artificial Intelligence
+- 📚 Learning Version Control (Meta - Coursera)
+- 🌱 Open to Internship Opportunities
+- 🎯 Goal: Build AI-powered products that solve real-world problems
+
+---
+
+## 🌐 Connect With Me
+
+Coming Soon...
+
+---
+
+## 🛠 Languages & Tools
+
+Coming Soon...
+
+---
+
+## 📊 GitHub Stats
+
+Coming Soon...
