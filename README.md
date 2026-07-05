@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋, I'm Surya Perabathula</h4>
+<h1 align="center">Hi 👋, I'm Surya Perabathula</h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Developer;Full+Stack+Developer;Startup+Builder;Creator+of+VillageFinder)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 AI Developer | Full-Stack Developer | Startup Builder</h3>
@@ -28,7 +28,7 @@ Coming Soon...
 
 ## 🛠 Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
