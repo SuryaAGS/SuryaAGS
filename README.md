@@ -62,10 +62,6 @@ React.js • JavaScript • HTML • CSS
 
 🔗 **Live Demo:** https://campus-zen-plan.lovable.app
 
-## 🌐 Connect With Me
-
-Coming Soon...
-
 ---
 
 ## 🛠 Languages & Tools
@@ -83,6 +79,14 @@ Coming Soon...
 - AI-Assisted Development
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-Coming Soon...
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-perabathula-08124a322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:perabathulasurya58@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
