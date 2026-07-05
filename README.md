@@ -21,6 +21,47 @@ Building technology that solves real-world problems.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌟 VillageFinder
+
+A multilingual village-focused marketplace that connects customers with nearby local shopkeepers, making it easier to find products available in village stores.
+
+**✨ Key Features**
+- 🌐 Multilingual Support (English, Telugu & Hindi)
+- 🔍 Product Search
+- 🎤 Voice Search
+- 📍 Live Shop Location
+- 📱 WhatsApp Ordering
+- 📦 Shop Inventory Management
+- 🟢 Real-Time Shop Open/Closed Status
+- 🔐 Secure Authentication with Supabase
+
+**🛠️ Tech Stack**
+React.js • JavaScript • Supabase • HTML • CSS • Lovable AI
+
+🔗 **Live Demo:** https://villagefinder.lovable.app
+
+🔗 **Repository:** *(https://suryaags.github.io/VillageFinder/)*
+
+---
+
+### ✅ Tasks-To-Do
+
+A clean and responsive task management web application that helps users organize daily activities and improve productivity.
+
+**✨ Key Features**
+- ➕ Add New Tasks
+- ✏️ Edit Existing Tasks
+- ✅ Mark Tasks as Completed
+- 🗑️ Delete Tasks
+- 📱 Responsive Design
+
+**🛠️ Tech Stack**
+React.js • JavaScript • HTML • CSS
+
+🔗 **Live Demo:** https://campus-zen-plan.lovable.app
+
 ## 🌐 Connect With Me
 
 Coming Soon...
